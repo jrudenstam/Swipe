@@ -1,3 +1,6 @@
+## AMD
+This fork of Swipe includes exposure to define method so that it can be used with require.js. If require.js is not used it will expose itself in the <code>window</code> object.
+
 ## Usage
 Swipe only needs to follow a simple pattern. Here is an example:
 
